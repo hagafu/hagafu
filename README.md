@@ -1,6 +1,4 @@
-# \     /           __      __    
-#  )/\/(   |__| /\ / _  /\ |_ /  \
-# /     \  |  |/--\\__)/--\|  \__/
+# HAGAFU
 
 Global media without middlemen.
 
