@@ -1,4 +1,4 @@
-# HAGAFU
+# hagafu
 
 Global media without middlemen.
 
