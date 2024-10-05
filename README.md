@@ -2,7 +2,7 @@
 
 Global media without middlemen.
 
-Visit [hagafu.com](http://hagafu.com)
+Visit [hagafu.com](https://hagafu.virteal.net/)
 
 #### Tech stack:
 
